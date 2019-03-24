@@ -776,7 +776,7 @@ body.page-forum .threadlistsection .threadblock li.viewedcount {
 
 body.page-forum .threadlistsection .threadblock li.viewedcount,
 #wrapper #content .threadlist .threadblock.is-sticky .threadlastpost {
-  border-color: var(--darker);
+  border-color: var(--thread-bg-accent);
 }
 
 /*===== search =====*/
