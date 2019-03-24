@@ -247,7 +247,7 @@ body.page-forum .forumhead ul .content .subtitle,
 }
 
 body.page-forum .forumpanel {
-  background: var(--thread-bg);
+  background: var(--thread-bg-accent);
 }
 
 #wrapper #content .forumcategoryblock .forumpanel {
