@@ -16,16 +16,21 @@
   --bg-opacity: 0.70;
 }
 
+
 /*===== General =====*/
 
 html::before {
   background-image: url(https://files.facepunch.com/forum/upload/185984/ba574c82-b372-4774-9a58-a1a1a848f3a7/tf_loghouse_alpine_2560.png);
+  background-color: var(--darker);
 }
 
 html {
   /*background: var(--darker);*/
 }
 
+#header:before {
+  background: var(--thread-bg-sticky);
+}
 
 #forum {
   background: var(--thread-bg);
@@ -47,6 +52,14 @@ strong {
   color: #ececec;
 }
 
+#header {
+  background: var(--thread-bg);
+  border: 1px solid var(--darker);
+}
+
+#header #toolbar {
+  border-color: var(--darker);
+}
 
 #header .navbar-main.navbar.is-dark .navbar-start:after {
   color: var(--text-color);
@@ -72,6 +85,10 @@ strong {
   border-color: var(--accent-text);
 }
 
+#drawerleft {
+  background: var(--darker);
+  border-right: 1px solid var(--darker);
+}
 
 #drawerleft > .drawer-section {
   background: var(--thread-bg-accent);
@@ -88,6 +105,7 @@ strong {
 }
 
 #drawerleft > .drawer-section > .drawer-content {
+  border-color: var(--darker);
   background-color: var(--thread-bg);
 }
 
@@ -204,6 +222,15 @@ a.dropdown-item:hover,
 }
 
 /*===== Main Page =====*/
+
+#wrapper #content .section:nth-of-type(2) {
+  background: var(--darker);
+}
+
+#wrapper #content .forumcategoryblock {
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
 
 #wrapper #content .forumcategoryblock .forumcategoryheader {
   background: var(--thread-bg-sticky);
@@ -606,11 +633,9 @@ body.page-forum .forumpanel {
 /* #wrapper #content .postlist .postblock .postmain .posthead {
  box-shadow: inset 500px 0px 500px -500px var(--accent);
 }
-
 #wrapper #content .postlist .postblock-read .postmain .posthead {
  box-shadow: inset 0 0 0 0 var(--accent);
 }
-
 #wrapper #content .postlist .postblock-own .postmain .posthead {
  box-shadow: inset 450px 0px 500px -500px var(--gold);
 } */
