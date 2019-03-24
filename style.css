@@ -1,8 +1,8 @@
 :root {
   --accent: #d75655;
   --accent-brighter: #191919;
-  --accent-hover: #003a69;
-  --accent-text: #c04b4d;
+  --accent-hover: #f263ff;
+  --accent-text: #f263ff;
   --thread-bg: #c04b4d;
   --thread-bg-read: #1c1c1c;
   --thread-bg-sticky: #2b2b2b;
