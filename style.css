@@ -26,13 +26,6 @@ html {
   /*background: var(--darker);*/
 }
 
-#header .navbar-main.navbar.is-dark .navbar-brand .navbar-item.logo {
-  /*background-image: url(https://i.imgur.com/POCWQCL.png);*/
-}
-
-#header:before {
-  background: var(--thread-bg-sticky);
-}
 
 #forum {
   background: var(--thread-bg);
