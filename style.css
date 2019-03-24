@@ -32,9 +32,6 @@ html {
   background: var(--thread-bg-sticky);
 }
 
-#forum {
-  background: var(--thread-bg);
-}
 
 body {
   color: var(--text-color);
