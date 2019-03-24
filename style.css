@@ -46,14 +46,6 @@ strong {
   color: #ececec;
 }
 
-#header {
-  background: var(--thread-bg);
-  border: 1px solid var(--darker);
-}
-
-#header #toolbar {
-  border-color: var(--darker);
-}
 
 #header .navbar-main.navbar.is-dark .navbar-start:after {
   color: var(--text-color);
@@ -79,10 +71,6 @@ strong {
   border-color: var(--accent-text);
 }
 
-#drawerleft {
-  background: var(--darker);
-  border-right: 1px solid var(--darker);
-}
 
 #drawerleft > .drawer-section {
   background: var(--thread-bg);
@@ -99,7 +87,6 @@ strong {
 }
 
 #drawerleft > .drawer-section > .drawer-content {
-  border-color: var(--darker);
   background-color: var(--thread-bg);
 }
 
