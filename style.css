@@ -1,6 +1,6 @@
 :root {
-  --accent: #d75655;
-  --accent-brighter: #191919;
+  --accent: #eaeaea;
+  --accent-brighter: #eaeaea;
   --accent-hover: #eaeaea;
   --accent-text: #a2a2a2;
   --thread-bg: #191919;
@@ -9,8 +9,8 @@
   --thread-bg-sticky: #1d1d1d;
   --thread-bg-sticky2: #1d1d1d;
   --thread-separator: #2b2b2b;
-  --text-color: #e4e4e4;
-  --text-dim-color: #b3b3b3;
+  --text-color: #eaeaea;
+  --text-dim-color: #e4e4e4;
   --gold: rgba(252, 190, 32, 1);
   --darker: #383838;
   --bg-opacity: 0.22;
