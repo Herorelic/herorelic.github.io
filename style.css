@@ -46,11 +46,13 @@ a {
 }
 
 a:hover {
-  color: var(--accent);
+  color: var(-
+  
+  );
 }
 
 strong {
-  color: #ececec;
+  color: #d25dd9;
 }
 
 
