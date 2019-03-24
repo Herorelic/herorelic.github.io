@@ -28,10 +28,14 @@ html {
   /*background: var(--darker);*/
 }
 
+#forum {
+  background: var(--thread-bg);
+}
+
 #header:before {
   background: var(--thread-bg-sticky);
 }
-
+<!--- egg --->
 
 body {
   color: var(--text-color);
@@ -49,10 +53,6 @@ strong {
   color: #ececec;
 }
 
-#header {
-  background: var(--thread-bg);
-  border: 1px solid var(--darker);
-}
 
 #header #toolbar {
   border-color: var(--darker);
