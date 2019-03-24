@@ -1,5 +1,5 @@
 :root {
-  --accent: #d75655;
+  --accent: #ffffff;
   --accent-brighter: #191919;
   --accent-hover: #eaeaea;
   --accent-text: #a2a2a2;
@@ -10,10 +10,10 @@
   --thread-bg-sticky2: #1d1d1d;
   --thread-separator: #2b2b2b;
   --text-color: #e4e4e4;
-  --text-dim-color: #b3b3b3;
-  --gold: rgba(252, 190, 32, 1);
+  --text-dim-color: #e4e4e4;
+  --gold: rgba(100, 190, 32, 1);
   --darker: #383838;
-  --bg-opacity: 0.22;
+  --bg-opacity: 0.50;
 }
 
 
@@ -267,7 +267,7 @@ body.page-forum .forumpanel {
 }
 
 #wrapper #content .forumcategoryblock .forumpanel .postcount,
-#wrapper #content .forumcategoryblock .forumpanel .forumlastpost {
+#wrapper #content .forumcategoryblock .forumpanel {
   background: var(--thread-bg);
   border-color: var(--darker);
 }
