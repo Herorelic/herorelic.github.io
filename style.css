@@ -1,5 +1,5 @@
 :root {
-  --accent: #333dda;
+  --accent: #2196f3;
   --accent-brighter: #3da8ff;
   --accent-hover: #003a69;
   --accent-text: #63ffff;
@@ -25,6 +25,10 @@ html::before {
 
 html {
   /*background: var(--darker);*/
+}
+
+#header .navbar-main.navbar.is-dark .navbar-brand .navbar-item.logo {
+  /*background-image: url(https://i.imgur.com/POCWQCL.png);*/
 }
 
 #header:before {
