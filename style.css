@@ -35,7 +35,6 @@ html {
 #header:before {
   background: var(--thread-bg-sticky);
 }
-<!--- egg --->
 
 body {
   color: var(--text-color);
@@ -61,7 +60,7 @@ strong {
 }
 
 #header .navbar-main.navbar.is-dark .navbar-start:after {
-  color: var(--text-color);
+  color: var(--accent);
 }
 
 #header #toolbar {
