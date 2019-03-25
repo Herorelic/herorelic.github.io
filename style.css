@@ -8,7 +8,7 @@
   --thread-bg-read: #1c1c1c;
   --thread-bg-sticky: #7d2c2f;
   --thread-bg-sticky2: #272720;
-  --thread-separator: #1f1a19;
+  --thread-separator: #311a1a;
   --text-color: #eaeaea;
   --text-dim-color: #e4e4e4;
   --gold: rgba(252, 190, 32, 1);
@@ -792,7 +792,7 @@ body.page-forum .threadlistsection .threadblock li.viewedcount,
 }
 
 .button.is-info {
-  background-color: var(--accent);
+  background-color: var(--accent2);
 }
 
 /*===== mod =====*/
