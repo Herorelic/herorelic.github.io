@@ -7,7 +7,7 @@
   --thread-bg-accent: #eaeaea;
   --thread-bg-read: #1c1c1c;
   --thread-bg-sticky: #7d2c2f;
-  --thread-bg-sticky2: #1d1d1d;
+  --thread-bg-sticky2: #2c2220;
   --thread-separator: #c51b1b;
   --text-color: #eaeaea;
   --text-dim-color: #e4e4e4;
@@ -391,7 +391,7 @@ body.page-forum
 
 #wrapper #content .threadlist .threadblock.is-sticky,
 #wrapper #content .threadlist .threadblock.is-sticky:hover {
-  background: var(--thread-bg-sticky);
+  background: var(--thread-bg-sticky2);
   color: var(--text-color);
   border-color: var(--darker);
 }
@@ -412,7 +412,7 @@ body.page-forum
 }
 
 .lastread {
-  background: var(--thread-bg-sticky);
+  background: var(--thread-bg-sticky2);
   color: var(--text-color);
   border-color: var(--darker);
 }
