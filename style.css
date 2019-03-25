@@ -500,8 +500,8 @@ body.page-forum .forumpanel {
 .postrender .postinner > .postuser .background-image:after {
   background: linear-gradient(
     to bottom,
-    rgba(5, 5, 5, var(--bg-opacity)) 350px,
-    #303030 460px
+    rgba(40, 40, 40, var(--bg-opacity)) 350px,
+    #eaeaea 460px
   );
 }
 
