@@ -501,7 +501,7 @@ body.page-forum .forumpanel {
   background: linear-gradient(
     to bottom,
     rgba(40, 40, 40, var(--bg-opacity)) 350px,
-    #191919 400px
+    #191919 460px
   );
 }
 
@@ -666,7 +666,7 @@ body.page-forum .forumpanel {
   .postinner
   .postuser
   .background-image:after {
-  box-shadow: inset 2px 0px 0px -1px var(--gold);
+  box-shadow: inset 2px 0px 0px -1px var(--text-color);
 }
 
 .ql-container.ql-snow .ql-editor postquote .head {
