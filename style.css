@@ -675,7 +675,7 @@ body.page-forum .forumpanel {
 
 .ql-container.ql-snow .ql-editor postquote {
   border: 1px solid var(--darker);
-  background-color: rgba(65, 65, 65, 0.2);
+  background-color: rgba(25, 25, 25, 0.2);
 }
 
 .postblock .postmain .postexpand.expandable-overflown:after {
