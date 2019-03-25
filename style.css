@@ -154,7 +154,7 @@ strong {
 
 a.dropdown-item:hover,
 .dropdown .dropdown-menu .has-link a:hover {
-  background: var(--accent);
+  background: var(--darker);
   color: var(--text-color);
 }
 
@@ -792,7 +792,7 @@ body.page-forum .threadlistsection .threadblock li.viewedcount,
 }
 
 .button.is-info {
-  background-color: var(--accent2);
+  background-color: var(--accent);
 }
 
 /*===== mod =====*/
