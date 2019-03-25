@@ -96,7 +96,6 @@ strong {
 
 #drawerleft > .drawer-section > .drawer-head {
   background-color: var(--thread-bg-sticky);
-  margin-top: 5px;
 }
 
 #drawerleft > .drawer-section > .drawer-head a {
