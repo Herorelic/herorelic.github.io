@@ -402,7 +402,7 @@ body.page-forum
 #wrapper #content .threadlist .threadblock.is-sticky .postcount {
   color: var(--text-color) !important;
   border-color: var(--darker);
-  background: var(--thread-bg-sticky);
+  background: var(--thread-bg-sticky2);
 }
 
 /*===== Threads View =====*/
