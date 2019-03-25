@@ -548,11 +548,11 @@ body.page-forum .forumpanel {
 }
 
 .page-forum.usershop .coinshopbody button {
-  background: var(--gold);
+  background: var(--text-color);
 }
 
 .coins {
-  color: var(--gold);
+  color: var(--text-color);
 }
 
 .username.user-moderator.username.user-moderator a,
