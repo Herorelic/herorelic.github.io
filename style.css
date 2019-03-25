@@ -501,7 +501,7 @@ body.page-forum .forumpanel {
   background: linear-gradient(
     to bottom,
     rgba(40, 40, 40, var(--bg-opacity)) 350px,
-    #191919 200px
+    #191919 390px
   );
 }
 
