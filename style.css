@@ -118,6 +118,9 @@ strong {
   background-color: var(--thread-bg-sticky);
 }
 
+.is-small.is-primary.button {
+  background: #eaeaea;
+  {
 .is-success.button {
   background: #2b2b2b;
 }
@@ -135,7 +138,7 @@ strong {
 }
 
 .button.is-warning {
-  background-color: #ad8500;
+  background-color: #bc4a4e;
   color: var(--text-color);
 }
 
