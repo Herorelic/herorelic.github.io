@@ -594,6 +594,10 @@ body.page-forum .forumpanel {
   background-color: var(--accent);
 }
 
+.user-gold.user-banned.user-online.username > a {
+  color: var(--accent);
+}
+
 .username a {
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.251);
 }
