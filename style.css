@@ -383,7 +383,7 @@ body.page-forum
   background: var(--thread-bg);
   color: var(--text-color);
 }
-ul.forumpanel.threadblock:nth-of-type > .bglinker.threadlastpost > .bglink
+ul.forumpanel.threadblock:nth-of-type > .bglinker.threadlastpost > .bglink {
   background: #1f1a19;
 }
 .bglinker.postcount > .bglink {
