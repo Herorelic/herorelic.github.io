@@ -386,7 +386,7 @@ body.page-forum
 ul.forumpanel.threadblock:nth-of-type > .bglinker.threadlastpost > .bglink {
   background: #1f1a19;
 }
-div.forumcategoryblock:nth-of-type > .forumchildren > ul.forumblock.forumpanel:nth-of-type(3) > .bglinker.forumlastpost > .bglink {
+ul.forumblock.forumpanel:nth-of-type > .bglinker.forumlastpost > .bglink {
   background: #1f1a19;
 }
 #wrapper #content .threadlist .threadblock .threadlastpost {
