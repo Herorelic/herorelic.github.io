@@ -383,12 +383,14 @@ body.page-forum
   background: var(--thread-bg);
   color: var(--text-color);
 }
+/*ehh fuck it
 .bglinker.threadlastpost > .bglink {
   background: #1f1a19;
 }
 .bglinker.forumlastpost > .bglink {
   background: #1f1a19;
 }
+*/
 #wrapper #content .threadlist .threadblock .threadlastpost {
   border-color: var(--darker);
   background: var(--thread-bg);
