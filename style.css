@@ -1,5 +1,5 @@
 :root {
-  --accent: #7D2C2F;
+  --accent: #bc4a4e;
   --accent-brighter: #eaeaea;
   --accent-hover: #eaeaea;
   --accent-text: #cacaca;
@@ -119,6 +119,10 @@ strong {
 }
 
 .is-success.button {
+  background: #2b2b2b;
+}
+
+.has-addons.field > .is-success.button {
   background: #2b2b2b;
 }
 .has-addons.field > .is-primary.button {
