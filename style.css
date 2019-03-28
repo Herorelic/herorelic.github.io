@@ -384,10 +384,10 @@ body.page-forum
   color: var(--text-color);
 }
 .bglinker.forumlastpost > .bglink {
-  background: var(--accent);
+  background: #1f1a19;
 }
 .bglinker.postcount > .bglink {
-  background: var(--accent);
+  background: #1f1a19;
 }
 #wrapper #content .threadlist .threadblock .threadlastpost {
   border-color: var(--darker);
