@@ -383,10 +383,10 @@ body.page-forum
   background: var(--thread-bg);
   color: var(--text-color);
 }
-ul.forumpanel.threadblock:nth-of-type > .bglinker.threadlastpost > .bglink {
+.bglinker.threadlastpost > .bglink {
   background: #1f1a19;
 }
-ul.forumblock.forumpanel:nth-of-type > .bglinker.forumlastpost > .bglink {
+.bglinker.forumlastpost > .bglink {
   background: #1f1a19;
 }
 #wrapper #content .threadlist .threadblock .threadlastpost {
