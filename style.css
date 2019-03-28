@@ -433,6 +433,11 @@ body.page-forum
   background: var(--thread-bg-sticky2);
 }
 
+.has-seen.is-closed.is-sticky.forumpanel.threadblock > .bglinker.threadmain > .threadtitle > .threadname,
+.has-seen.is-closed.is-sticky.forumpanel.threadblock > .bglinker.threadmain > .threadtitle > .threadname:hover; {
+color: #58b958;
+}
+
 /*===== Threads View =====*/
 
 .title {
