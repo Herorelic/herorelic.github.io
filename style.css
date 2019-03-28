@@ -12,7 +12,7 @@
   --text-color: #eaeaea;
   --text-dim-color: #e4e4e4;
   --gold: rgba(252, 190, 32, 1);
-  --darker: #2c2626;
+  --darker: #383838;
   --bg-opacity: 0.60;
 }
 
@@ -84,7 +84,7 @@ strong {
 }
 
 #drawerleft {
-  background: var(--darker);
+  background: #2b2b2b;
   border-right: 1px solid var(--darker);
 }
 
