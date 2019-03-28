@@ -587,11 +587,11 @@ body.page-forum .forumpanel {
 }
 
 .username.user-banned a {
-  color: #a11;
+  color: var(--accent);
 }
 
 .postblock .baninfo {
-  background-color: #a11;
+  background-color: var(--accent);
 }
 
 .username a {
