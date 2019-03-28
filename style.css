@@ -120,6 +120,7 @@ strong {
 
 .is-small.is-primary.button {
   background: #eaeaea;
+  color: var(--accent);
 }
 .is-success.button {
   background: #eaeaea;
