@@ -126,7 +126,7 @@ strong {
   background: #eaeaea;
 }
 .mdi-playlist-plus.mdi {
-  color: #2b2b2b;
+  color: var(--accent);
 }
 
 .has-addons.field > .is-success.button {
