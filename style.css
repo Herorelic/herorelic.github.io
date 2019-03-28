@@ -118,6 +118,9 @@ strong {
   background-color: var(--thread-bg-sticky);
 }
 
+.is-success.button {
+  background: #2b2b2b;
+}
 .has-addons.field > .is-primary.button {
   background: var(--text-color);
   color: var(--accent);
