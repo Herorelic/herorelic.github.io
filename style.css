@@ -122,6 +122,11 @@ strong {
   background: #eaeaea;
   color: var(--accent);
 }
+
+.is-mobile-modal.is-active.is-bottom-left.dropdown > .dropdown-trigger > .navbar-item {
+  background: var(--accent);
+}
+
 .is-success.button {
   background: #eaeaea;
 }
