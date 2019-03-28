@@ -383,7 +383,12 @@ body.page-forum
   background: var(--thread-bg);
   color: var(--text-color);
 }
-
+div.forumcategoryblock:nth-of-type(1) > .forumchildren > ul.forumblock.forumpanel:nth-of-type(1) > .bglinker.forumlastpost > .bglink {
+  background: #eaeaea;
+}
+div.forumcategoryblock:nth-of-type(1) > .forumchildren > ul.forumblock.forumpanel:nth-of-type(1) > .bglinker.postcount > .bglink {
+  background: #eaeaea;
+}
 #wrapper #content .threadlist .threadblock .threadlastpost {
   border-color: var(--darker);
   background: var(--thread-bg);
@@ -432,11 +437,11 @@ body.page-forum
   border-color: var(--darker);
   background: var(--thread-bg-sticky2);
 }
-
+/*
 .has-seen.is-closed.is-sticky.forumpanel.threadblock > .bglinker.threadmain > .threadtitle > .threadname,
 .has-seen.is-closed.is-sticky.forumpanel.threadblock > .bglinker.threadmain > .threadtitle > .threadname:hover; {
 color: #58b958;
-}
+}*/
 
 /*===== Threads View =====*/
 
