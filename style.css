@@ -127,26 +127,31 @@ strong {
   background: var(--accent);
 }
 
-.is-success.button {
+.is-success.button,
+.is-success.button:hover {
   background: #eaeaea;
 }
 .mdi-playlist-plus.mdi {
   color: var(--accent);
 }
 
-.has-addons.field > .is-success.button {
+.has-addons.field > .is-success.button,
+.has-addons.field > .is-success.button:hover {
   background: #eaeaea;
 }
-.has-addons.field > .is-primary.button {
+.has-addons.field > .is-primary.button,
+.has-addons.field > .is-primary.button:hover {
   background: var(--accent);
   color: var(--text-color);
 }
-.button.is-primary {
+.button.is-primary,
+.button.is-primary:hover {
   background: var(--accent);
   color: #eaeaea;
 }
 
-.button.is-warning {
+.button.is-warning,
+.button.is-warning:hover {
   background-color: #bc4a4e;
   color: var(--text-color);
 }
