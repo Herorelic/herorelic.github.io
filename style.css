@@ -118,7 +118,8 @@ strong {
   background-color: var(--thread-bg-sticky);
 }
 
-.is-small.is-primary.button {
+.is-small.is-primary.button,
+.is-small.is-primary.button:hover {
   background: #eaeaea;
   color: var(--accent);
 }
