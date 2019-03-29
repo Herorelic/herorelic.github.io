@@ -608,7 +608,7 @@ body.page-forum .forumpanel {
   background-color: var(--accent);
 }
 
-.user-banned {
+.user-banned a {
   color: var(--accent);
 }
 
