@@ -11,7 +11,7 @@
   --thread-separator: #261f1d;
   --text-color: #eaeaea;
   --text-dim-color: #e4e4e4;
-  --gold: rgba(252, 190, 32, 1);
+  --gold: #fff;
   --darker: #383838;
   --bg-opacity: 0.60;
 }
@@ -601,9 +601,7 @@ body.page-forum .forumpanel {
 .username.user-admin.username.user-admin a {
   color: #15b6df;
 }
-.postuser .user-card .user-card-header a {
-  color: var(--gold);
-}
+
 .username.user-gold a {
   color: #fff;
 }
