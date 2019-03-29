@@ -595,13 +595,17 @@ body.page-forum .forumpanel {
   color: var(--text-color);
 }
 
-.username.user-moderator.username.user-moderator a,
-.username.user-admin.username.user-admin a {
+.username.user-moderator.username.user-moderator a {
   color: #58b958;
 }
-
+.username.user-admin.username.user-admin a {
+  color: #15b6df;
+}
+.postuser .user-card .user-card-header a {
+  color: var(--gold);
+}
 .username.user-gold a {
-  color: #58b958;
+  color: #fff;
 }
 
 .postblock .baninfo {
