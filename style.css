@@ -604,19 +604,11 @@ body.page-forum .forumpanel {
   color: var(--gold);
 }
 
-.username.user-banned a {
-  color: var(--accent);
-}
-
 .postblock .baninfo {
   background-color: var(--accent);
 }
 
-.user-gold.user-banned.user-online.username > a {
-  color: var(--accent);
-}
-
-.user-banned.username {
+.user-banned {
   color: var(--accent);
 }
 
