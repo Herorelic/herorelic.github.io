@@ -846,6 +846,9 @@ body.page-forum .threadlistsection .threadblock li.viewedcount,
 img[src="https://files.facepunch.com/f/fi/0/6ff31"]{
  content:url("https://files.facepunch.com/garry/95650b81-5219-41e9-a4db-327e3e8f4144.svg");
 }
+img[src="https://files.facepunch.com/garry/2018/03/27/banned.png"]{
+ content:url("https://files.facepunch.com/forum/upload/109968/d6852ccb-ecd9-4d21-acfe-1e2d37fede72/BANvoy.svg");
+}
 span[data-label="Funny"]  .votebutton img{
  content:url("https://svgshare.com/i/BVh.svg");
 }
