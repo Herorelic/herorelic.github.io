@@ -606,6 +606,7 @@ body.page-forum .forumpanel {
 
 .username.user-banned a {
   color: var(--accent);
+  background: var(--accent);
 }
 
 .postblock .baninfo {
