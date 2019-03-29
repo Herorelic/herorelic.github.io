@@ -51,7 +51,7 @@ a:hover {
 }
 
 strong {
-  color: #d25dd9;
+  color: var(--accent);
 }
 
 
