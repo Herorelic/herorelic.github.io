@@ -601,7 +601,7 @@ body.page-forum .forumpanel {
 }
 
 .username.user-gold a {
-  color: var(--gold);
+  color: #58b958;
 }
 
 .postblock .baninfo {
