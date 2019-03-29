@@ -11,7 +11,7 @@
   --thread-separator: #261f1d;
   --text-color: #eaeaea;
   --text-dim-color: #e4e4e4;
-  --gold: #fff;
+  --gold: #f9c231;
   --darker: #383838;
   --bg-opacity: 0.60;
 }
@@ -603,7 +603,7 @@ body.page-forum .forumpanel {
 }
 
 .username.user-gold a {
-  color: #fff;
+  color: var(--gold);
 }
 
 .postblock .baninfo {
