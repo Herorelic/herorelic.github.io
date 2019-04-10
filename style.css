@@ -854,6 +854,9 @@ span[data-label="Funny"]  .votebutton img{
 span[data-label="Cute"]  .votebutton img{
  content:url("https://files.facepunch.com/forum/upload/109968/aa8bb586-e4cf-4236-87c8-297933e207df/cutebow.svg");
 }
+span[data-label="Artistic"]  .votebutton img{
+ content:url("https://files.facepunch.com/forum/upload/109968/fc080549-f93b-4038-ab85-0ba451617911/artisticE.svg");
+}
 span[data-label="Informative"]  .votebutton img{
  content:url("https://svgshare.com/i/BXE.svg");
 }
